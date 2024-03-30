@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="hijau_tua">#32A610</color>
     <color name="hijau_muda">#DDFFD0</color>
+    <color name="grey">#939090</color>
+    <color name="green">#5FD267</color>
+    <color name="transparan">#00101011</color>
 </resources>
