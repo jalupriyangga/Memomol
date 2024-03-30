@@ -57,11 +57,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="389dp" />
+        tools:layout_editor_absoluteY="396dp" />
 
     <Button
         android:layout_width="wrap_content"
-        android:layout_height="13dp"
+        android:layout_height="wrap_content"
         android:background="@color/transparan"
         android:gravity="start"
         android:text="@string/orderNow"
@@ -69,7 +69,8 @@
         android:textColor="@color/green"
         android:textSize="9sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="418dp" />
+        tools:layout_editor_absoluteY="413dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
