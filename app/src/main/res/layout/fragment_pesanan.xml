@@ -26,7 +26,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.022"
-        tools:layout_editor_absoluteX="155dp" />
+        tools:layout_editor_absoluteX="155dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -44,7 +45,8 @@
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/ic_noorder"
         tools:layout_editor_absoluteX="110dp"
-        tools:layout_editor_absoluteY="206dp" />
+        tools:layout_editor_absoluteY="206dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView2"
@@ -57,7 +59,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="396dp" />
+        tools:layout_editor_absoluteY="396dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:layout_width="wrap_content"
@@ -71,6 +74,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="413dp" />
+        tools:layout_editor_absoluteY="413dp"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

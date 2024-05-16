@@ -10,7 +10,6 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title1">Selamat Datang di Memomol</string>
     <string name="title2">Cari Souvernir Cantik?</string>
@@ -22,7 +21,7 @@
     <string name="description4">Bersama Memomol, jelajahi imajinasi \nindahnya cenderamata favoritmu\nmelalui fitur kategori</string>
     <string name="profile">Profile</string>
     <string name="category">Category</string>
-
     <string name="noOrder">Tidak ada pesanan</string>
     <string name="orderNow"><u>Yuk temukan produk yang kamu suka</u></string>
+
 </resources>
