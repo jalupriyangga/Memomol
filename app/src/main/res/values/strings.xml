@@ -23,5 +23,8 @@
     <string name="category">Category</string>
     <string name="noOrder">Tidak ada pesanan</string>
     <string name="orderNow"><u>Yuk temukan produk yang kamu suka</u></string>
+    <string name="accOrder">Selamat produk berhasil dipesan!</string>
+    <string name="infOrder">Silahkan periksa status pemesanan pada menu Order List</string>
+
 
 </resources>
